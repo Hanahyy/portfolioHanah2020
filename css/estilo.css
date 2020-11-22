@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Manjari:100&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap');
+html, body {margin: 0; height: 100%;}
+
+
+a:link, a:visited {
+	text-decoration: none;
+	}
+a:hover {
+	text-decoration: underline; 
+	
+	}
+
+a:active {
+	text-decoration: none;
+	}
+a{
+	color: white;
+}
+
+h1{
+  color: black;
+  font-family: 'Pacifico', sans-serif;
+  margin-top:5%;
+  font-size: 35px;
+  text-align: left;
+  margin-left: 5%;
+ 
+}
+
+
+h2{
+ font-family: 'Manjari', sans-serif;
+  color:white;
+  margin-top:10%;
+  font-size: 18px;
+ 
+}
+hr{
+	width: 60%;
+	text-align: center;
+}
+
+ p{
+   color: black;
+  font-family: 'Quicksand', sans-serif;
+  margin-top:5%;
+  font-size: 18px;
+  text-align: justify;
+  margin-left: 5%;
+  margin-right: 5%;
+ }
+ 
+ 
+h4{
+  color: black;
+  font-family: 'Quicksand', sans-serif;
+  margin-top:2%;
+  font-size: 18px;
+  text-align: left;
+  margin-left: 5%;  
+
+
+}
+
+h3{
+ 
+  color: black;
+  font-family: 'Quicksand', sans-serif;
+  margin-top:3%;
+  font-size: 45px;
+  text-align: left;
+  margin-left: 5%;  
+
+}
+
+
+
+.eu{
+margin-top:10%;
+border-radius: 85px;
+margin-left: 1%;
+
+}
+
+
+
+.about{
+background-color: white;
+	text-align: justify-all;
+float: left;
+
+  height: 100%;
+  width: 82%;
+  ;
+
+}
+
+.perfil {
+float: left;
+  background: black;
+  height: 100%;
+  width: 18%;
+  text-align: center;
+
+}
+
+
+
+
+}
